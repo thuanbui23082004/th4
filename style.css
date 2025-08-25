@@ -1,0 +1,22 @@
+.active {
+    color: red;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+}
+
+p {
+    width: 200px;
+}
+
+.img__main {
+    width: 400px;
+    height: 400px;
+}
+
+.img__item {
+    width: 100px;
+    height: 100px;
+}
